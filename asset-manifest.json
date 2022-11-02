@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/planner-redux-toolkit/static/css/main.aaaf48ca.css",
+    "main.js": "/planner-redux-toolkit/static/js/main.c70c1a8e.js",
+    "index.html": "/planner-redux-toolkit/index.html",
+    "main.aaaf48ca.css.map": "/planner-redux-toolkit/static/css/main.aaaf48ca.css.map",
+    "main.c70c1a8e.js.map": "/planner-redux-toolkit/static/js/main.c70c1a8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaaf48ca.css",
+    "static/js/main.c70c1a8e.js"
+  ]
+}
